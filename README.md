@@ -7,6 +7,7 @@ Ways to research happily!
 1. [How to Read a Scientific Article](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf)
 2. [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 3. [READING SCIENTIFIC PAPERS](https://web.stanford.edu/~siegelr/readingsci.htm) ([zh_CN version](https://mp.weixin.qq.com/s/rhHKIhwoIGHVWTvUCqCuEQ))
+4. [如何看待创新性](https://mp.weixin.qq.com/s/gGyUwj35TBekhu_MbCEj_w)
 
 ### Writing
 1. [How to write a whole research paper in a week](https://writingscientist.com/paper-in-a-week/)
@@ -16,6 +17,7 @@ Ways to research happily!
 5. [Book: Writing for Computer Science](https://yosnex.files.wordpress.com/2015/11/ref-3-writing-for-computer-science.pdf)
 6. [How to write a review paper (zh_CN)](https://mp.weixin.qq.com/s/BUyeJLe-HLqQ0L3KfdRDHA)
 7. [How I wrote a PhD thesis in 3 months](https://phd.academy/blog/how-i-wrote-a-phd-thesis-in-3-months)
+8. [论文写作经验](https://mp.weixin.qq.com/s/i_XOuj0maX8Gc2tNc3JCmA)
 
 ### Proposal
 1. [如何写选题（开题）报告](https://mp.weixin.qq.com/s/Nm290G0buJq0VlroG9oQLA)
