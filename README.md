@@ -18,11 +18,15 @@ Ways to research happily!
 6. [How to write a review paper (zh_CN)](https://mp.weixin.qq.com/s/BUyeJLe-HLqQ0L3KfdRDHA)
 7. [How I wrote a PhD thesis in 3 months](https://phd.academy/blog/how-i-wrote-a-phd-thesis-in-3-months)
 8. [论文写作经验](https://mp.weixin.qq.com/s/i_XOuj0maX8Gc2tNc3JCmA)
+9. [论文写作细节](https://mp.weixin.qq.com/s/4uCtUEqC30CffAp-Z11sfg)
 
 ### Proposal
 1. [如何写选题（开题）报告](https://mp.weixin.qq.com/s/Nm290G0buJq0VlroG9oQLA)
 2. [选题的优雅法则——FINER criteria](https://mp.weixin.qq.com/s/Hs2DQ-b7cZO3rzCnjPeWhQ)
 3. [How to Write a Grant Proposal](https://simon.peytonjones.org/great-grant-proposal/)
+4. [硕士开题报告经验](https://mp.weixin.qq.com/s/tRJCEHNa3wPyTtB5ep5ZIQ)
+5. [优秀博士论文经验](https://mp.weixin.qq.com/s/yKahDZH-FcAgB0tsXsvUew)
+6. [CCF优秀博士论文](https://mp.weixin.qq.com/s/-Rgc42H-PhLembGQmPCklA)
 
 ### Submitting Paper
 1. [Common problems that lead to rejection](https://www.hindawi.com/post/common-problems-lead-rejection/)
@@ -83,6 +87,8 @@ Ways to research happily!
 8. [The PhD Journey](https://www.findaphd.com/guides/the-phd-journey)
 9. [5 routes to getting a Doctorate](https://www.prospects.ac.uk/postgraduate-study/phd-study/5-routes-to-getting-a-doctorate)
 10. [Things-a-scientist-is-suppposed-to-know](https://github.com/philippbayer/Things-a-scientist-is-suppposed-to-know)
+11. [读博劝退文](https://mp.weixin.qq.com/s/_P59GQ2mPMIgq24gE1V9nA)
+
 
 ## Research Taste
 1. [谁是等等：透过参考文献看科研素养](https://mp.weixin.qq.com/s/dAraUE9mEWC_k4xD-gUJTw)
