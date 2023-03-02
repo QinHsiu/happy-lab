@@ -1,0 +1,89 @@
+快速阅读：如何读标题、摘要和引言
+make your paper easy to read
+1.title
+标题是总结、抽象的概括（简明扼要）
+2.introduction
+a.这篇论文讲述的内容 what your paper is about
+b.这篇论文解决了什么问题 what problem it solves
+c.为什么这个问题是有趣的 why the problem is interesting
+d.这篇文章的创新点 what is really new (and what isn't)
+e.这篇文章为什么怎么整洁 why it;s so neat
+about,problem,interesting,new,neat
+3.abstract
+分解摘要，并加上一些有趣的亮点；
+尝试将摘要分解成中文
+
+
+仔细阅读：critical reading,ask questions,bu suspicious
+这篇论文有问题，我要找出来
+带着质疑的心态问问题。如果作者论文中声称解决了一个问题，
+那么你就要在心里问自己：论文是否正确、真正地解决了问题？
+作者论文中所用方法是否有局限性？
+如果所读的论文没有解决问题，那么我能解决么？
+我能采用比论文中更简单的方法解决么？
+所以，一旦进入仔细阅读的状态，要在读论文之前对自己说：
+这篇论文可能有问题，我要找出来。
+1.if the authers attempt to solve a problem
+a.are they solving the right problem
+b.are there simple solutions not have sonsidered
+c.waht are the limitations of the solutions
+
+2.if the authors present data
+a.do they have right data to substantiate argument
+b.do they gather it in the correct manner
+c.do they interpret data in a reasonable manner
+d.are there other more compelling data sets
+
+3.are the authors assumption reasonable
+is the logic clear and justifiable given assumption?
+is there a flaw in the reasoning?
+
+Tips：
+write a summary,do a presentation about the paper
+Notes:bib,summary,key points,figures,citations,structures,stylys
+Ask for help:people around,the authors
+read more,keep reading
+be patient:reading =building your cognitive model
+
+
+创造性阅读：
+在我所读的论文中，有哪些好的idea？
+（一般文章中只有一个idea，好的文章中可能有两个idea，
+最了不起的文章可以有2.5个idea。）
+搞清楚作者的idea以后你要思考，作者有哪些点还没有想到？
+可以怎么改进？如果我现在做这项研究，我能做的新事情是什么？
+如果说批判性阅读是“negative thinking”，
+那么创造性阅读就是“positive thinking”。
+创造性的阅读需要把你所读的论文和其他相关的论文建立联系，
+从而产生一些新的想法，这些想法可以支撑你进行三个月到五个月的研究。
+如果读到了非常好的文章，不妨写一篇半页到一页左右的review。
+最好做一个口头展示，这样你会发现，
+只有把东西写下来或者说出来才能真正深刻理解。
+analysis with a list of questions
+what's main claim ?key idea?
+what's key limitation?
+is there code available?data?
+is the sontribution significant enough?
+is the experimentation good?manual tuning?
+
+are there important related papers i missed?
+is it usueful to my work e.g product dev?
+is this a paper worth following?
+what do other people think about this paper?
+who are dominating this area of research?
+what question should  i ask the authors?
+
+
+
+笔记：one note
+学习指南网站，提供文献学习指南：cliffsnotes
+mendeley:参考文献管理
+
+
+
+养成写小总结的习惯，最好能做报告，
+这样真的能够增加你对所读论文的理解。
+我想再次强调，大家一定要有耐心，
+因为阅读就是在你大脑中建立认知模型的过程，
+虽然不知道今天读的文章未来什么时候能够派上用场，
+但是请大家保持阅读、建立认知的习惯。
