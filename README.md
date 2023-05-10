@@ -88,6 +88,7 @@ Ways to research happily!
 9. [5 routes to getting a Doctorate](https://www.prospects.ac.uk/postgraduate-study/phd-study/5-routes-to-getting-a-doctorate)
 10. [Things-a-scientist-is-suppposed-to-know](https://github.com/philippbayer/Things-a-scientist-is-suppposed-to-know)
 11. [读博劝退文](https://mp.weixin.qq.com/s/_P59GQ2mPMIgq24gE1V9nA)
+12. [Learning_Research](https://github.com/pengsida/learning_research)
 
 
 ## Research Taste
