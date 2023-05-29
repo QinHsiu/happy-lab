@@ -19,6 +19,8 @@ Ways to research happily!
 7. [How I wrote a PhD thesis in 3 months](https://phd.academy/blog/how-i-wrote-a-phd-thesis-in-3-months)
 8. [论文写作经验](https://mp.weixin.qq.com/s/i_XOuj0maX8Gc2tNc3JCmA)
 9. [论文写作细节](https://mp.weixin.qq.com/s/4uCtUEqC30CffAp-Z11sfg)
+10. [第一次论文写作容易犯的错误](https://mp.weixin.qq.com/s/-ebDlAECIYoJyOI3QpKXLA)
+
 
 ### Proposal
 1. [如何写选题（开题）报告](https://mp.weixin.qq.com/s/Nm290G0buJq0VlroG9oQLA)
