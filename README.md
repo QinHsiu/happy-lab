@@ -20,6 +20,7 @@ Ways to research happily!
 8. [论文写作经验](https://mp.weixin.qq.com/s/i_XOuj0maX8Gc2tNc3JCmA)
 9. [论文写作细节](https://mp.weixin.qq.com/s/4uCtUEqC30CffAp-Z11sfg)
 10. [第一次论文写作容易犯的错误](https://mp.weixin.qq.com/s/-ebDlAECIYoJyOI3QpKXLA)
+11. [如何写好摘要](https://mp.weixin.qq.com/s/5qf7Rpjg8L2iL9GWnBZ1tA)
 
 
 ### Proposal
