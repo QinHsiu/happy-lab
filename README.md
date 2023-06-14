@@ -38,6 +38,7 @@ Ways to research happily!
 
 ### Giving Talks
 1. [How to Give a Great Research Talk](https://simon.peytonjones.org/great-research-talk/)
+2. [如何做好学术演讲](https://mp.weixin.qq.com/s/yibjtahpaJOu9iKvCa3jXQ)
 
 ## Research Tools
 ### Figure Plotting
