@@ -8,6 +8,7 @@ Ways to research happily!
 2. [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 3. [READING SCIENTIFIC PAPERS](https://web.stanford.edu/~siegelr/readingsci.htm) ([zh_CN version](https://mp.weixin.qq.com/s/rhHKIhwoIGHVWTvUCqCuEQ))
 4. [如何看待创新性](https://mp.weixin.qq.com/s/gGyUwj35TBekhu_MbCEj_w)
+5. [如何做笔记](https://mp.weixin.qq.com/s/UmyKSiT4V9z6MCIPiEri-w)
 
 ### Writing
 1. [How to write a whole research paper in a week](https://writingscientist.com/paper-in-a-week/)
