@@ -95,6 +95,7 @@ Ways to research happily!
 10. [Things-a-scientist-is-suppposed-to-know](https://github.com/philippbayer/Things-a-scientist-is-suppposed-to-know)
 11. [读博劝退文](https://mp.weixin.qq.com/s/_P59GQ2mPMIgq24gE1V9nA)
 12. [Learning_Research](https://github.com/pengsida/learning_research)
+13. [如何应对研究生生活](https://mp.weixin.qq.com/s/9wsR-ZJBU7Rizok7VQCkAg)
 
 
 ## Research Taste
