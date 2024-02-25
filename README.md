@@ -22,6 +22,7 @@ Ways to research happily!
 9. [论文写作细节](https://mp.weixin.qq.com/s/4uCtUEqC30CffAp-Z11sfg)
 10. [第一次论文写作容易犯的错误](https://mp.weixin.qq.com/s/-ebDlAECIYoJyOI3QpKXLA)
 11. [如何写好摘要](https://mp.weixin.qq.com/s/5qf7Rpjg8L2iL9GWnBZ1tA)
+12. [How to Write a Literature Review Paper](https://mp.weixin.qq.com/s/YIYgdu13RqKvQMHiGog1GQ)
 
 
 ### Proposal
@@ -94,6 +95,7 @@ Ways to research happily!
 10. [Things-a-scientist-is-suppposed-to-know](https://github.com/philippbayer/Things-a-scientist-is-suppposed-to-know)
 11. [读博劝退文](https://mp.weixin.qq.com/s/_P59GQ2mPMIgq24gE1V9nA)
 12. [Learning_Research](https://github.com/pengsida/learning_research)
+13. [如何应对研究生生活](https://mp.weixin.qq.com/s/9wsR-ZJBU7Rizok7VQCkAg)
 
 
 ## Research Taste
